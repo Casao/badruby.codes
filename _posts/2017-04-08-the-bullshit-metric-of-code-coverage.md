@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: The Bullshit Metric of Code Coverage
 tags: 'specs, tests'
 ---
