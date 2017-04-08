@@ -24,8 +24,8 @@ color-2: '#FF160D'
 
 # Author pictre 100x100 --> keep it inside img folder.
 author-image: 'author.jpg'
-author-name: 'John Doe' 
-author-about: 'John Doe should be described in a very few words!' 
+author-name: 'draecas' 
+author-about: "A Ruby developer who's seen and written a lot of bad code" 
 
 # Build settings
 markdown: kramdown
