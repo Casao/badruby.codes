@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Thunder is a minimal responsive Jekyll theme which uses very less ``html`` and ``css`` code. The page-load is within a second. This Jekyll Theme is suitable for simple blogs.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+More themes available here: [**Jekyll Themes**](http://blog.webjeda.com/jekyll-themes/)
+
+
