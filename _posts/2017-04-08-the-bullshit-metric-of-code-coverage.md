@@ -2,6 +2,7 @@
 published: true
 title: The Bullshit Metric of Code Coverage
 tags: 'specs, tests'
+layout: post
 ---
 Tests. Writing them sucks. Writing them is also probably the most important part of writing real, production quality code. We sacrificed the type safety of more boring languages like Java for the simplicity of Ruby code, and the price that decision is having to write a lot of tests.
 
